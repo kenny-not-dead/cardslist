@@ -13,7 +13,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "http://185.180.231.87/media/cache/05/70/05708dabcc05a4e03e0caa7fb321be02.jpg"
+        img: "/img/card1.jpg"
     },
 
     {
@@ -29,7 +29,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: 'http://185.180.231.87/media/cache/66/41/66416d023cd6f5d466f57ebdd0adde80.jpg'
+        img: "/img/card2.jpg"
     },
 
     {
@@ -45,7 +45,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true, 
-        img: 'http://185.180.231.87/media/cache/06/32/06328cdfafdaafaad031873c1c74295b.jpg'
+        img: "/img/card3.jpg"
 
     },
 
@@ -62,7 +62,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: 'http://185.180.231.87/media/cache/9e/e2/9ee27afcee64b053a179eb45d85e1b93.jpg'
+        img: "/img/card4.jpg"
     },
 
     {
@@ -78,7 +78,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: 'http://185.180.231.87/media/cache/de/c4/dec4fd919c063420045894d93c790c64.jpg'
+        img: "/img/card5.jpg"
 
     },
 
@@ -95,7 +95,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: 'http://185.180.231.87/media/cache/84/64/8464d1112cc9b6e5703c7d4c23e8d306.jpg'
+        img: "/img/card6.jpg"
     },
 
     {
@@ -113,7 +113,7 @@ catalog = [
             '99'],
         new: false,
         popular: true,
-        img: 'http://185.180.231.87/media/cache/98/de/98de7ebb5ecc13f79acd7938a0daf8a4.jpg'
+        img: "/img/card7.jpg"
     },
 
     {
