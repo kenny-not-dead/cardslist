@@ -13,7 +13,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "/img/card1.jpg"
+        img: "img/card1.jpg"
     },
 
     {
@@ -29,7 +29,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "/img/card2.jpg"
+        img: "img/card2.jpg"
     },
 
     {
@@ -45,7 +45,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true, 
-        img: "/img/card3.jpg"
+        img: "img/card3.jpg"
 
     },
 
@@ -62,7 +62,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "/img/card4.jpg"
+        img: "img/card4.jpg"
     },
 
     {
@@ -78,7 +78,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "/img/card5.jpg"
+        img: "img/card5.jpg"
 
     },
 
@@ -95,7 +95,7 @@ catalog = [
         saleprice: [],
         new: false,
         popular: true,
-        img: "/img/card6.jpg"
+        img: "img/card6.jpg"
     },
 
     {
@@ -113,7 +113,7 @@ catalog = [
             '99'],
         new: false,
         popular: true,
-        img: "/img/card7.jpg"
+        img: "img/card7.jpg"
     },
 
     {
