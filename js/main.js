@@ -176,7 +176,7 @@ const sale = catalog.filter(catalog => catalog.sale === true).map (i => i) // м
 
 newcatalog = catalog;
 
-photo = './1.jpg'
+photo = 'img/1.jpg'
 
 
 const changecatalog = () => {
